@@ -1,0 +1,2 @@
+rootProject.name='RecyclerSmart'
+include ':app'
