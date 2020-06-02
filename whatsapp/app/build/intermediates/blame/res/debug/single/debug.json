@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_signup_photo.jpg.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\signup_photo.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sender_messages_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\sender_messages_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menu.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_chat_bar.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\custom_chat_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_image.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\profile_image.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\group_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inputs.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\inputs.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_chat.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_chat_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\group_chat_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_popup.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\image_popup.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_screen1.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\splash_screen1.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_photo.jpg.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\login_photo.jpg"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_status.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\edit_status.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contacts.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_message.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\send_message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_online.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\online.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashscreen.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_file.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\file.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_profile.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\edit_profile.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\app_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_groups.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receiver_messages_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\receiver_messages_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_button.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\search_button.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_send_files.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\send_files.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_search_bar.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\custom_search_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_messages_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\custom_messages_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_find_friends.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_find_friends.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_users_display_layout.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\users_display_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlebackground.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\circlebackground.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_request.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_activity.png.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\drawable\\profile_activity.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\whatsapp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_login.xml.flat",
+        "source": "E:\\AndroidStudioProjects\\whatsapp\\app\\src\\main\\res\\layout\\activity_phone_login.xml"
+    }
+]
